@@ -14,3 +14,5 @@ The model is trained with list of names, qualifications and other words. The sys
 
 The System can predict Qualifications and Names with approximately about 85% and 67% for train data.
 
+The System can perform much more better if it is fed with more data. 
+
